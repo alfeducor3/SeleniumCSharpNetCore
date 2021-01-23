@@ -14,6 +14,7 @@ namespace SeleniumCSharpNetCore
             Console.WriteLine("Setup");
             // ChromeOptions chromeOptions = new ChromeOptions();
             // chromeOptions
+
             Driver = new ChromeDriver();
 
 
